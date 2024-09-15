@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+        text-align: center;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+}
+h1{
+    
+    font-family:"JetBrains Mono";
+    color: rgb(212, 218, 216);
+}
+h3{
+    
+    font-family:"JetBrains Mono";
+    color: rgb(212, 218, 216);
+    font-size: medium;
+}
+h4{
+    font-family:"JetBrains Mono";
+    color: rgb(212, 218, 216);
+    font-size: medium;
+}
+#cme{
+    text-align: left;
+}
+h6{
+    font-family:"JetBrains Mono";
+    color: rgb(212, 218, 216);
+    font-size: medium;
+}
+#link{
+    font-family:"JetBrains Mono";
+    color: rgb(212, 218, 216);
+    text-align: left ;
+    color: white;
+    text-decoration: none; /* Optional: Removes the underline */
+}  
+}
+ul li a:hover {
+    color: #007BFF; /* Change link color on hover */
+}
+ul {
+    list-style: none; /* Removes default bullet points */
+    padding: 0;
+}
